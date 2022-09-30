@@ -1,0 +1,18 @@
+{
+    "root": "C:\\Users\\ozher\\Desktop\\ds\\dsChampionship",
+    "train":
+        {
+            "comments": "C:/Users/ozher/Desktop/ds/dsChampionship/train/train_comments.csv",
+            "issues": "C:/Users/ozher/Desktop/ds/dsChampionship/train/train_issues.csv"
+        },
+    "test":
+        {
+            "comments": "C:/Users/ozher/Desktop/ds/dsChampionship/test/test_comments.csv",
+            "issues": "C:/Users/ozher/Desktop/ds/dsChampionship/test/test_issues.csv"
+        },
+    "auxiliary":
+        {
+            "employees": "C:/Users/ozher/Desktop/ds/dsChampionship/auxiliaryData/employeesNew.csv",
+            "submit": "C:/Users/ozher/Desktop/ds/dsChampionship/auxiliaryData/sample_solution.csv"
+        }
+}
